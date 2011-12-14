@@ -17,7 +17,8 @@
     "jslint-core": "*",
     "eyes": "*",
     "colors": "*",
-    "jshint": "0.5.x"
+    "jshint": "0.5.x",
+    "astjourney": "0.x.x"
   },
   "devDependencies": {
     "colors": "0.5.x",
